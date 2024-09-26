@@ -1,6 +1,6 @@
 singjamei = 
-nambol = 
+nambol = 50
 meitram = 
 kwakeithel = 
-bishenpur =
-utlou = 
+bishenpur = 43
+utlou = 60
