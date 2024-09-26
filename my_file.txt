@@ -1,6 +1,6 @@
-singjamei = 
+singjamei = 25
 nambol = 
-meitram = 
+meitram = 60
 kwakeithel = 
 bishenpur =
 utlou = 
